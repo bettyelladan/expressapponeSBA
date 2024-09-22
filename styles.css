@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+#clientList ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#clientList li {
+    background-color: #eee;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+form {
+    margin-top: 20px;
+}
+
+form input, form button {
+    padding: 10px;
+    margin: 5px;
+}
+
+form button {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+}
